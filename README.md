@@ -1,2 +1,2 @@
-# Antibiotics-comparative-analysis
+# Trichoderma antibiotics analysis
 Phylogenetic analysis
